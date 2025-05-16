@@ -43,8 +43,8 @@ A command-line chat application for secret messaging. Features include adding fr
 - **Wise Chatbot Based on AI**  
   *Published in International Journal of Scientific Research and Engineering Development*
 
-- **Event Handling in Java Programming**
-  *Chyren Publication*
+- **Event Handling in Java Programming**  
+  *Book Chapter in Recent Trend in Engineering by Chyren Publication*
 
 ---
 
