@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tripathi18&label=Profile%20views&color=0e75b6&style=flat" alt="Tripathi18" /> </p>
 
-<img align="right" src="https://avatars.githubusercontent.com/u/37727772?v=4" alt="AI Banner" height="300" width="400">
+<img align="right" src="ChatGPT Image May 21, 2025, 04_43_07 PM.png" alt="AI Banner" height="300" width="400">
 
 - 🌍 Based in New Delhi, India  
 - 🎓 Computer Science Educator and AI Practitioner  
 - 🔭 I specialize in Machine Learning, NLP, and Data Science  
 - 💡 Passionate about Teaching, Research, and Creative Tech Solutions  
-- 📚 Currently exploring advanced topics in Explainable AI and NLG  
+- 📚 Currently exploring integration of AI with Astrophysics or AI for Aerospace
 - 👨‍💻 All of my projects are available at [https://github.com/Tripathi18](https://github.com/Tripathi18)
 
 ---
