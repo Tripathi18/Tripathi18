@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tripathi18&label=Profile%20views&color=0e75b6&style=flat" alt="Tripathi18" /> </p>
 
-<img align="right" src="https://media.giphy.com/media/UQJlZ2NjEv5Ak/giphy.gif" alt="AI Banner" height="300" width="400">
+<img align="right" src="https://avatars.githubusercontent.com/u/37727772?v=4" alt="AI Banner" height="300" width="400">
 
 - 🌍 Based in New Delhi, India  
 - 🎓 Computer Science Educator and AI Practitioner  
