@@ -44,9 +44,9 @@
   <a href="https://github.com/Tripathi18" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Tripathi18" height="30" width="40" />
   </a>
-    < a href ="https://scholar.google.com/citations?hl=en&user=AXZUZcsAAAAJ" target ="blank">
-      <img align="center" src= "https://img.icons8.com/?size=100&id=pU44R9xgF3wq&format=png" alt="Tripathi18" height="30" width="40" />
-    </a>
+  <a href ="https://scholar.google.com/citations?hl=en&user=AXZUZcsAAAAJ" target ="blank">
+    <img align="center" src= "https://img.icons8.com/?size=100&id=pU44R9xgF3wq&format=png" alt="Tripathi18" height="30" width="40" />
+  </a>
 </p>
 
 ---
