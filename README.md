@@ -44,6 +44,9 @@
   <a href="https://github.com/Tripathi18" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Tripathi18" height="30" width="40" />
   </a>
+  < a href ="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=AXZUZcsAAAAJ" target ="blank">
+    <img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Tripathi18" height="30" width="40" />
+  </a>
 </p>
 
 ---
