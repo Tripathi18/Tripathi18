@@ -47,16 +47,6 @@
   <a href ="https://scholar.google.com/citations?hl=en&user=AXZUZcsAAAAJ" target ="blank">
     <img align="center" src= "https://img.icons8.com/?size=100&id=okYCvWotC0uX&format=png" alt="Tripathi18" height="30" width="40" />
   </a>
-
-  <div class="social-links">
-            <a href="https://www.linkedin.com/in/ayushtripathi37/"><i class="fab fa-linkedin-in"></i></a>
-            <a href="https://scholar.google.com/citations?user=AXZUZcsAAAAJ&hl=en"><i class="fab fa-google"></i></a>
-            <a href="https://orcid.org/0000-0002-7498-778X"><i class="fab fa-orcid"></i></a>
-            <a href="https://github.com/Tripathi18"><i class="fab fa-github"></i></a>
-            <a href="https://x.com/AyushT18dec"><i class="fab fa-twitter"></i></a>
-            <a href="mailto:ayushtripathi37@gmail.com"><i class="fas fa-envelope"></i></a>
-        </div>
-  
 </p>
 
 ---
